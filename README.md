@@ -4,9 +4,7 @@ A Go client implementation for the [Tailscale API](https://tailscale.com/api).
 
 ## Current Version
 
- * [V2](https://github.com/tailscale/tailscale-client-go/tree/main/v2#readme): `import "github.com/tailscale/tailscale-client-go/v2"`
-
-   [![Go Reference](https://pkg.go.dev/badge/github.com/tailscale/tailscale-client-go.svg)](https://pkg.go.dev/github.com/tailscale/tailscale-client-go/v2)
+ * [V2](https://github.com/tailscale/tailscale-client-go-v2): `import "tailscale.com/client/tailscale/v2"`
 
 ## Old versions
 
